@@ -1,9 +1,12 @@
 <div align='center'><h1> जय माता दी (JAI MATA DI) :pray:</h1></div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&color=1EF79A&background=FFFFFF00&multiline=true&width=435&lines=Keshav+Singh;SSE)](https://git.io/typing-svg)
+
 <div align="center">
 <a href="https://twitter.com/Keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a><a href="https://www.linkedin.com/in/keshavsingh4522" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Linkdein" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-2--v2.png" /></a><a href="https://www.instagram.com/keshavsingh3197" target="_blank" rel="nofollow"><img align="right" alt="Keshav's Insta" width="22px" src="https://img.icons8.com/color/48/000000/instagram-new--v2.png" /></a>
 </div>
 
-<img src='https://github.com/keshavsingh4522/keshavsingh4522/blob/master/Assets/Monkey_Kid_Coding.gif' align='left'>
+<img src='./Assets/Monkey_Kid_Coding.gif' align='left'>
 
 ### Hi  👋  ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/keshavsingh4522)
 - :school: I'm [Keshav Singh](https://keshavsingh4522.github.io/), have pursued B.Tech(CSE) from <a href="https://jecrcfoundation.com/">@JECRC  </a>
@@ -13,50 +16,87 @@
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - 😄 Pronouns: **Coder, Leader** and **Kind Hearted**
-- :bulb: Occasionaly I do participate in **Hackathons**
+- :bulb: Occasionally I do participate in **Hackathons**
 - 👨 Know more about me at [Sourcerer](https://sourcerer.io/keshavsingh4522) 
 - 🌐 Visit my [porfolio website](https://keshavsingh4522.github.io/) for complete background and contact.
 - :boom: awesome octoprofile : [Keshav Singh](https://octoprofile.now.sh/user?id=keshavsingh4522)
 <!-- - ⚡ Languages: **Python3 | SQL | HTML | CSS |** -->
 
 <br />
+
+## Skills
+- **Languages**: C#, .Net Core, ASP.NET Core Web API, REST, gRPC, Microservices, OOPs, Unit Testing [NUnit], TDD, SOQL
+- **Frameworks**: Angular
+- **Databases**: MySQL, MongoDB, Salesforce, Postgres, Redis, OpenSearch
+- **Operating Systems**: Windows, Linux
+- **Tools**: Visual Studio, Jira, Bitbucket, Azure DevOps, Git, SonarQube
+- **AWS**: App Config, Parameter Store, KMS, SQS, SNS, SES, Event Bus, App Flow, API Gateway, Lambda, Cognito, Step Functions, DynamoDB, S3 bucket, SAM CLI
+- **Azure**: SignalR, Storage, Vault, SQL Server, VPN, App Service, Function, API Management
+
 <br />
 
+![](https://github-stats-alpha.vercel.app/api?username=keshavsingh4522&cc=22272e&tc=37BCF6&ic=fff&bc=0000)
+
+## Profiles
 <!-- start work experience section -->
 <details>
 <summary><b> My Work Experience :point_right: </b></summary>
 <table>
   <thead>
     <tr>
-      <th>Job Name</th>
+      <th>Company</th>
+      <th>Position</th>
       <th>Roles & responsibilities</th>
       <th>Duration</th>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><b><a href="https://www.unthinkable.co/">Junior Associate - IT at Unthinkable Solution LLP</a> </b></td>
+     <tr>
+      <td><b><a href="https://www.rsystems.com/">R Systems</a> </b></td>
+      <td>Senior Software Engineer</td>
       <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
-      <td>August 2021 - Present</td>
+      <td>FEB 2024 - Present</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://www.marlabs.com/">Marlabs</a> </b></td>
+      <td>Software Engineer</td>
+      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
+      <td>JULY 2023 - OCTOBER 2023 </td>
+    </tr>
+     <tr>
+      <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
+      <td>Associate - IT</td>
+      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
+      <td>January 2023 - JULY 2023</td>
+    </tr>
+    <tr>
+      <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
+      <td>Junior Associate - IT</td>
+      <td>.Net Core (AWS, Microservice(Azure)) Devloper</td>
+      <td>August 2021 - January 2023</td>
     </tr>
   	<tr>
-      <td><b><a href="https://www.unthinkable.co/">Junior Associate Intern at Unthinkable Solution LLP</a> </b></td>
+      <td><b><a href="https://www.unthinkable.co/">Unthinkable Solution LLP</a> </b></td>
+      <td>Intern</td>
       <td>Learning and practising of ASP.NET,C#</td>
       <td>January 2021 - August 2021</td>
     </tr>
     <tr>
-      <td><b><a href="https://www.chegg.com/">Expert at Chegg</a> </b></td>
+      <td><b><a href="https://www.chegg.com/">Chegg</a> </b></td>
+      <td>Expert</td>
       <td>Solving questions.</td>
       <td>October 2020 - January 2021</td>
     </tr>
     <tr>
-      <td><b>Problem Setter(Procode)</b></td>
+      <td><b>Procode team</b></td>
+      <td>College Activity</td>
       <td>Setting Problems ranging from easy to medium and hard levels</td>
-      <td>March 2020 - Aprail 2020</td>
+      <td>March 2020 - April 2020</td>
     </tr>
      <tr>
-      <td><b><a href="https://www.atg.world/">Frontend Developer at ATG</a></b></td>
-      <td>working on frontend of website</td>
+      <td><b><a href="https://www.atg.world/">ATG</a></b></td>
+       <td>Frontend Developer Intern</td>
+      <td>Working on frontend of website</td>
       <td>July 2019 - August 2019</td>
     </tr>
   </tbody>
@@ -89,27 +129,27 @@
     <tr>
       <td><a href="https://keshavsingh4522.github.io/Projects/CodeEditor/">CodeEditor</a></td>
       <td>HTML,CSS,Javascript</td>
-      <td>write html cod here and result will display there</td>
+      <td>write html cod here and the result will display there</td>
     </tr>
     <tr>
       <td><a href='https://keshavsingh4522.github.io/Projects/Wordpad/'>Wordpad</a></td>
-      <td>Html,Css,Javascript</td>
+      <td>Html,CSS,Javascript</td>
       <td>its functionality look like as wordpad</td>
     </tr>
     <tr>
       <td><a href='https://keshavsingh4522.github.io/Projects/address%20maker/'>Address Maker</a></td>
-      <td>Html,Css,Javascript</td>
-      <td>it generates address in desing format by fiiling the details</td>
+      <td>Html,CSS,Javascript</td>
+      <td> It generates an address in design format by filling in the details</td>
     </tr>
     <tr>
       <td><a href="https://keshavsingh4522.github.io/Projects/switcher-app/">Switcher app</a></td>
       <td>HTML,CSS,jQuery</td>
-      <td>It changes  the text color by drag and drp color on text</td>
+      <td>It changes  the text color by dragging and dropping color on text</td>
     </tr>
     <tr>
       <td><a href='https://keshavsingh4522.github.io/music-player/'>Music Player</a></td>
       <td>HTML,HTML5,CSS,CSS3,Javascript,jQuery</td>
-      <td>add songs and play music,it also uses to store data in  INDEXEDB Database by which we can play songs,if we not clear the catch then song will remain stored in database.</td>
+      <td>add songs and play music, it also uses to store data in  INDEXEDB Database by which we can play songs, if we do not clear the catch then the song will remain stored in a database.</td>
     </tr>
   </tbody>
 </table>
@@ -129,10 +169,13 @@
 
 <img src="https://activity-graph.herokuapp.com/graph?username=keshavsingh4522&theme=react-dark&bg_color=20232a&hide_border=true" width="100%">
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshavsingh4522&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=keshavsingh4522&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=keshavsingh4522&theme=dracula)
+
 </div>
 </details>
 <!-- end statics fun section -->
-
 
 <details> 
  <summary>🤖 <b>My programming stats</b>: </summary>
@@ -188,23 +231,23 @@ JavaScript               1 repo              █░░░░░░░░░░�
 </details>
 
 
-<!-- start dynamic spotify spngs API -->
-### i really like music :headphones:
+<!-- start dynamic Spotify songs API -->
+### I really like music :headphones:
 
 <!-- Nothing weird to see here -->
 <p align="center">currently jamming to</p>
 <p align="center">
   <a href="https://spotify-now-playing-song.vercel.app/api/now-playing?open">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability, and energy! -->
     <img src="https://spotify-now-playing-song.vercel.app/api/now-playing">
   </a>
 </p>
 
 <p align="center">
-  <!-- He came up with the idea of HOW to show React components as an img on a README.md and the now playing component! -->
+  <!-- He came up with the idea of HOW to show React components as an image on a README.md and the now-playing component! -->
   <i>inspired by <a href="https://github.com/natemoo-re">natemoo-re</a> for song api</i>
 </p>
-<!-- end dynamic spotify spngs API -->
+<!-- end dynamic Spotify songs API -->
 
 <!-- start footer section -->
 
@@ -213,3 +256,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 <!--
 [![Profile views](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522.svg)](http://hits.dwyl.com/keshavsingh4522/keshavsingh4522) 
 -->
+
+[![test_workflow](https://github.com/keshavsingh4522/keshavsingh4522/actions/workflows/blank.yml/badge.svg)](https://github.com/keshavsingh4522/keshavsingh4522/actions/workflows/blank.yml)
